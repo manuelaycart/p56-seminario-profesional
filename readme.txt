@@ -1,6 +1,0 @@
-UNIVERSIDAD POLITÉCNICA SALESIANA
-
-SEMINARIO NODE.JS + MONGODB
-
-Manuel Aycart
-Carrera de Ingeniería de Sistemas
