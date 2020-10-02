@@ -2,4 +2,5 @@ UNIVERSIDAD POLITÉCNICA SALESIANA
 
 SEMINARIO NODE.JS + MONGODB
 
-GABRIELA FARIAS
+Manuel Aycart
+Carrera de Ingeniería de Sistemas
